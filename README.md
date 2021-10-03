@@ -1,6 +1,6 @@
 <center>
 # [Black-Software](https://github.com/black-software-Com)
-</center
+</center>
 
 # Installing Black-Tool For (Linux)
 ``` sh
