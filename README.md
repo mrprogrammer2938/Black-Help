@@ -3,7 +3,7 @@
 # [Black-Software](https://github.com/black-software-Com)
 </center>
 
-# Installing [Black-Tool](https://github.com/mrprogrammer2938) For (Linux)
+# Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) For (Linux)
 ``` sh
 git clone https://github.com/black-software-Com/Black-Tool
 
