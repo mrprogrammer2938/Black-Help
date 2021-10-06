@@ -49,3 +49,15 @@ bash install
 python main.py
 ```
 <br>
+
+# Installing Black-Attacker
+``` sh
+git clone https://github.com/mrprogrammer2938/Black-Attack
+
+cd Black-Attack
+
+bash install.sh --install
+
+python black.py # or bash install.sh --start
+```
+<br>
