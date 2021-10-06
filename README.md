@@ -38,7 +38,7 @@ bash install
 python3 hack
 ```
 
-### Installing Black-DataBase](https://github.com/black-software-com/Black-Database)
+### Installing [Black-DataBase](https://github.com/black-software-com/Black-Database)
 ``` sh
 git clone https://github.com/black-software-Com/Black-Database
 
