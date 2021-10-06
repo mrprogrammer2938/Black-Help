@@ -3,7 +3,7 @@
 # [Black-Software](https://github.com/black-software-Com)
 </center>
 
-# Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) For (Linux)
+### Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool) For (Linux)
 ``` sh
 git clone https://github.com/black-software-Com/Black-Tool
 
@@ -14,7 +14,7 @@ bash install
 python main.py
 ```
 
-# Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool-Windows) For (Windows)
+### Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool-Windows) For (Windows)
 ``` sh
 git clone https://github.com/mrprogrammer2938/Black-Tool-Windows
 
@@ -26,7 +26,7 @@ cd Core/Ruby
 ruby hack.rb
 ```
 
-# Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool-Termux) For (Termux)
+### Installing [Black-Tool](https://github.com/mrprogrammer2938/Black-Tool-Termux) For (Termux)
 
 ``` sh
 git clone https://github.com/mrprogrammer2938/Black-Tool-Termux
@@ -38,7 +38,7 @@ bash install
 python3 hack
 ```
 
-# Installing Black-DataBase](https://github.com/black-software-com/Black-Database)
+### Installing Black-DataBase](https://github.com/black-software-com/Black-Database)
 ``` sh
 git clone https://github.com/black-software-Com/Black-Database
 
@@ -50,7 +50,7 @@ python main.py
 ```
 <br>
 
-# Installing [Black-Attacker](https://github.com/mrprogrammer2938/Black-Attack) 
+### Installing [Black-Attacker](https://github.com/mrprogrammer2938/Black-Attack) 
 ``` sh
 git clone https://github.com/mrprogrammer2938/Black-Attack
 
